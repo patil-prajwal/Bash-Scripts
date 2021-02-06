@@ -14,7 +14,7 @@
 
 ***All of this is to be run via Bash Script on Centos 8 !***
 
-<center>
-<img height="40" width="40" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/bash1.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="40" width="40" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/jenkins.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</center>
+<p align="center">
+<img height="50" width="50" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/bash1.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/jenkins.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
